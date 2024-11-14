@@ -22,6 +22,16 @@ const LandingPage = () => {
           <li>📦 Fast Shipping</li>
         </ul>
       </section>
+      {/* Screenshot Gallery */}
+       <section className="gallery">
+        <h2>Explore the Interface</h2>
+        <div className="screenshots">
+          <img src="Screenshot 2024-11-13 at 18.22.46.png" alt="Home" />
+          <img src="Screenshot 2024-11-13 at 22.00.45.png" alt="Shopping Cart" />
+          <img src="Screenshot 2024-11-13 at 18.14.30.png" alt="Shipping Address" />
+          <img src="Screenshot 2024-11-13 at 18.14.51.png" alt="Payment Method" />
+        </div>
+      </section>
       </div>
   )
 }
