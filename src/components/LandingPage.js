@@ -7,7 +7,7 @@ const LandingPage = () => {
       {/* Header Section */}
       <header className="header">
         <h1>♾️ StarJane E-commerce</h1>
-        <img src="/pexels-karolina-grabowska-5632402.jpg" alt="public" />
+        <img src="pexels-karolina-grabowska-5632402.jpg" alt="public" />
         <p>Shop for various products, read reviews, and pay seamlessly with PayPal.</p>
         <a href="https://github.com/JanetAdedosu/StarJane" className="btn">View on GitHub</a>
       </header>
