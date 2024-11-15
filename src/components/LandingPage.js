@@ -11,7 +11,7 @@ const LandingPage = () => {
         <p>Shop for various products, read reviews, and pay seamlessly with PayPal.</p>
         <a href="https://github.com/JanetAdedosu/StarJane" className="btn">View on GitHub</a>
       </header>
-      {/* neww */}
+      {/* newwest */}
       {/* Features Section */}
       <section className="features">
         <h2>Key Features</h2>
