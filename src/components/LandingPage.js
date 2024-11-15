@@ -32,7 +32,26 @@ const LandingPage = () => {
           <img src="Screenshot 2024-11-13 at 18.14.51.png" alt="Payment Method" />
         </div>
       </section>
-      </div>
-  )
+      
+    {/* Tech Stack Section */}
+    <section className="tech-stack">
+    <h2>Tech Stack</h2>
+    <p>Built with modern web technologies:</p>
+    <ul>
+      <li>🔷 HTML, CSS, React</li>
+      <li>📦 npm for dependency management</li>
+      <li>🛠️ Express and MongoDB for the backend</li>
+      <li>✔️ Mocha for testing</li>
+    </ul>
+  </section>
+
+  {/* Call to Action Section */}
+  <footer className="footer">
+  <a href="https://starjane-17.onrender.com" class="button-link">DEMO</a>
+  <a href="https://portfolio-janet-adedosus-projects.vercel.app" class="button-link portfolio-link">My Porfolio</a>
+  </footer>
+ </div>
+ )
 }
+
 export default LandingPage;
